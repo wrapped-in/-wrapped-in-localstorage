@@ -1,0 +1,24 @@
+{
+  "name": "wrapped-in-localstorage",
+  "version": "1.0.62",
+  "description": "Library for working with local storage.",
+  "keywords": [
+    "wrapped-in",
+    "wrapped",
+    "local",
+    "storage",
+    "js",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrapped-in/wrapped-in-localstorage#main"
+  },
+  "main": "index.min.js",
+  "author": "Wrapped-in",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wrapped-in/wrapped-in-localstorage/issues"
+  },
+  "homepage": "https://github.com/wrapped-in/wrapped-in-localstorage#readme"
+}
